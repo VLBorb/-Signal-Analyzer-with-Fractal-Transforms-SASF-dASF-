@@ -1,4 +1,4 @@
-# -Signal-Analyzer-with-Fractal-Transforms-SASF-dASF-
+# -Vibrational/Fregventional Signal-Analyzer-with-Fractal-Transforms-SASF²/DASF²/FFT-
 Signal  Fractal Transforms (SASF²/DASF²)  This project implements an innovative method for signal analysis, particularly for anomaly detection and vibration characterization, using fractal spectral transforms
 # Signal Analyzer with Fractal Transforms (SASF²/DASF²)
 
