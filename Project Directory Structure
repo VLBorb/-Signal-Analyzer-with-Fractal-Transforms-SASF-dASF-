@@ -1,0 +1,7 @@
+fractal_signal_analyzer/
+├── .gitignore
+├── LICENSE
+├── README.md
+├── requirements.txt
+└── src/
+    └── fractal_analyzer.py
