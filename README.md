@@ -1,7 +1,7 @@
 # -Vibrational/Fregventional Signal-Analyzer-with-Fractal-Transforms-SASF²/DASF²/FFT-
 Signal  Fractal Transforms (SASF²/DASF²)  This project implements an innovative method for signal analysis, particularly for anomaly detection and vibration characterization, using fractal spectral transforms
 # Signal Analyzer with Fractal Transforms (SASF²/DASF²)
-
+# By: V.Lucian Borbeleac
 This project implements an innovative method for signal analysis, particularly for anomaly detection and vibration characterization, using fractal spectral transforms named SASF² (Constructive Fractal Transform) and DASF² (Dissipative Fractal Transform). The program simulates a baseline signal and a disturbed signal, applies these transforms, and calculates various metrics to quantify divergence and assess system status.
 
 ## Features
